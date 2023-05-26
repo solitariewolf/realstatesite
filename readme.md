@@ -31,7 +31,7 @@ This project is licensed under the MIT License.
 
 📞 Contact
 
-If you have any questions or need further information, please contact us at contact@gitrealstate.com.
+If you have any questions or need further information, please contact us at cyrushackerone@gmail.com
 
 🏢 Enjoy the project and have a great experience with Git Real State! 🏡
 
@@ -70,6 +70,6 @@ Este projeto está licenciado sob a licença MIT.
 
 📞 Contato
 
-Se você tiver alguma dúvida ou precisar de mais informações, entre em contato conosco através do email contato@gitrealstate.com.
+Se você tiver alguma dúvida ou precisar de mais informações, entre em contato conosco através do email cyrushackerone@gmail.com
 
 🏢 Aproveite o projeto e tenha uma ótima experiência com o Git Real State! 🏡
