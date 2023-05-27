@@ -1,0 +1,50 @@
+/* Reset CSS */
+html, body, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Layout */
+  .admin-container {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 300px;
+    background-color: #f1f1f1;
+  }
+  
+  .menu {
+    margin-top: 20px;
+  }
+  
+  .menu li {
+    padding: 10px;
+  }
+  
+  .menu li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  /* Logo */
+  img {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  /* Styling do menu ativo */
+  .menu li a.active {
+    font-weight: bold;
+    color: #ff0000;
+  }
+  
+  /* Outros estilos que você desejar adicionar */
+  
+  
