@@ -87,4 +87,5 @@ window.addEventListener('DOMContentLoaded', function () {
     errorMessageElement.style.display = 'none';
     successMessageElement.style.display = 'none';
   }
-  
+// publicar imoveis ===========================================================================================
+
