@@ -15,7 +15,7 @@ For Rent: Listing of properties available for rent, also categorized into houses
 Contact: Contact form to request additional information or schedule property visits.
 🖼️ Customizing the Website
 
-The website has been designed to be easily customizable, allowing you to adjust colors, images, and content. You can edit the style.css file to customize the appearance of the website according to your preferences. Additionally, you can add your own images and information to the property listings in the index.html file.
+The website has been designed to be easily, customizable, allowing you to adjust colors, images, and content. You can edit the style.css file to customize the appearance of the website according to your preferences. Additionally, you can add your own images and information to the property listings in the index.html file.
 
 🔧 Technologies Used
 
