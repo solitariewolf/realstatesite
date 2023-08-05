@@ -64,7 +64,7 @@ O projeto foi construído utilizando HTML, CSS e JavaScript. O HTML define a est
 
 Contribuições e melhorias são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue neste repositório.
 
-📄 Licença
+📄 Licença:
 
 Este projeto está licenciado sob a licença MIT.
 
