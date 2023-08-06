@@ -1,6 +1,6 @@
 🏡 Git Real State - Real Estate Website 🏢
 
-Git Real State Logo
+Git Real State
 
 Welcome to the Git Real State project repository! Here you will find the source code for creating a website for a fictional real estate agency. The website was developed with the aim of displaying property listings for sale and rental, as well as providing information about the real estate agency and options for contact.
 
