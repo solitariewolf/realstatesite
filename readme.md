@@ -42,7 +42,7 @@ Git Real State Logo
 
 Bem-vindo ao repositório do projeto Git Real State! Aqui você encontrará o código-fonte para a criação de um site para uma imobiliária fictícia. O site foi desenvolvido com o objetivo de exibir as publicações de imóveis disponíveis para venda e locação, além de fornecer informações sobre a imobiliária e opções de atendimento.
 
-🚀 Começando
+🚀 Começando!!!
 
 Para visualizar o site em funcionamento, basta abrir o arquivo index.html em um navegador web. O site contém as seguintes seções:
 
