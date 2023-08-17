@@ -1,7 +1,7 @@
-/* Estilos para o cabeçalho */
+
 header {
   position: relative; /* Adiciona posicionamento relativo para que o posicionamento absoluto funcione corretamente */
-  background-color: #5163c7; /* Altere para a cor desejada */
+  background-color: #5163c7;
   padding: 10px;
   border-radius: 5px;
 }
