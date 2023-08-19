@@ -24,7 +24,7 @@ The project was built using HTML, CSS, and JavaScript. HTML defines the structur
 
 Contributions and improvements are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue in this repository.
 
-📄 License
+📄 License:
 
 This project is licensed under the MIT License.
 
