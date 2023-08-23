@@ -67,7 +67,7 @@ Contribuições e melhorias são bem-vindas! Se você encontrar algum problema o
 
 Este projeto está licenciado sob a licença MIT.
 
-📞 Contato
+📞 Contato:
 
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato conosco através do email cyrushackerone@gmail.com
 
