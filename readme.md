@@ -73,4 +73,3 @@ Se você tiver alguma dúvida ou precisar de mais informações, entre em contat
 
 🏢 Aproveite o projeto e tenha uma ótima experiência com o Git Real State! 🏡
 
-:)
